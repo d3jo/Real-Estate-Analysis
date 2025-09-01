@@ -6,6 +6,8 @@ those that are not.
 
 Correlation Table
 
+![Alt_text](KakaoTalk_20250901_191014173.png)
 
+Real-Estate Pricing Heatmap
 
-Real-Estate Heatmap
+![Alt_text](KakaoTalk_20250901_191103060.png)
