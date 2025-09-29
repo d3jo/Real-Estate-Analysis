@@ -12,3 +12,5 @@ We can see that coast and bay area generally have a high price, this also corres
 **Correlation Table**
 
 ![Alt_text](Results/KakaoTalk_20250901_191103060.png)
+
+The correlation values lie in between [ -1, 1 ] and values closer to -1 is negative correlation, 0 is no correlation and 1 is positive correlation.
