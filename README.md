@@ -4,6 +4,8 @@ Analysis of California real estate properties, investigating the correlations be
 
 **Real-Estate Pricing Heatmap**
 
+We can see that coast and bay area generally have a high price, this also corresponds to the major west coast cities known for high real estate prices, SF and LA.
+
 ![Alt_text](Results/KakaoTalk_20250901_191014173.png)
 
 
