@@ -1,4 +1,4 @@
-# Real-Estate-Analysis
+# California Real Estate Analysis
 
 Analysis of California real estate properties, investigating the correlations between variables and house price, and a heatmap representing the mean price.
 
